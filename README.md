@@ -24,7 +24,7 @@ you must have latest version python. Use VS CODE For Smooth Running
    git clone https://github.com/CryptoSatyam/MidasRWA-AutoBot.git
    ```
    ```bash
-   cd MidasRWA-BOT
+   cd MidasRWA-AutoBot
    ```
 
 2. **Instal Requirements [3rd command ]:**
