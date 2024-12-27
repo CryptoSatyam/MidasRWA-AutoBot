@@ -3,7 +3,7 @@ MidasRWA BOT
 
 Register Here : [MidasRWA](https://t.me/MidasRWA_bot/app?startapp=ref_f07b128d-5574-48aa-8241-d519ba5998a4)
 
-Telegram Channel: [Satyam - Code](https://t.me/CryptoSatyam1)
+Telegram Channel: [Crypto Satyam](https://t.me/CryptoSatyam1)
 
 ## Features
 
