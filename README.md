@@ -34,7 +34,7 @@ you must have latest version python. Use VS CODE For Smooth Running
 
 ## Enter Your Query and user
 
-- **query.txt:** querry_id= and user= apko bataya hu kaise milta hai telegram pr so must join our TG - @CryptoSatyam1 Also you can search in my telegram - how to find query of any telegram bot
+- **query.txt:** querry_id= and user= apko bataya hu kaise milta hai telegram pr so must join our TG - [@CryptoSatyam1](https://t.me/CryptoSatyam1) Also you can search in my telegram - how to find query of any telegram bot
 
   ```bash
   query_id=
