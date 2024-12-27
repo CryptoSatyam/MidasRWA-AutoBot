@@ -21,7 +21,7 @@ you must have latest version python. Use VS CODE For Smooth Running
 
 1. **clone repo:**
    ```bash
-   git clone https://github.com/CryptoSatyam/MidasRWA-BOT.git
+   git clone https://github.com/CryptoSatyam/MidasRWA-AutoBot.git
    ```
    ```bash
    cd MidasRWA-BOT
