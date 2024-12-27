@@ -15,11 +15,11 @@ Telegram Channel: [Satyam - Code](https://t.me/CryptoSatyam1)
 
 ## Python Required
 
-you must have python latest version.
+you must have latest version python. Use VS CODE For Smooth Running 
 
-## Instalasi
+## SCRIPT RUNNING PROCESS [1st & 2nd command below copy and paste one by one ]
 
-1. **clone repositori:**
+1. **clone repo:**
    ```bash
    git clone https://github.com/CryptoSatyam/MidasRWA-BOT.git
    ```
@@ -27,7 +27,7 @@ you must have python latest version.
    cd MidasRWA-BOT
    ```
 
-2. **Instal Requirements:**
+2. **Instal Requirements [3rd command ]:**
    ```bash
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
@@ -41,7 +41,7 @@ you must have python latest version.
   user=
   ```
 
-## For Start The Script 
+## last command For Start The Script + Restart Script
 
 ```bash
 python bot.py #or python3 bot.py
