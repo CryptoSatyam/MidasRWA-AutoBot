@@ -21,6 +21,8 @@ you must have latest version python. Use VS CODE For Smooth Running
 
 1. **clone repo:**
    ```bash
+   python -m venv venv
+   venv\Scripts\activate
    git clone https://github.com/CryptoSatyam/MidasRWA-AutoBot.git
    ```
    ```bash
