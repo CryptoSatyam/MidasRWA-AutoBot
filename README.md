@@ -29,6 +29,8 @@ you must have latest version python. Use VS CODE For Smooth Running
 
 2. **Instal Requirements [3rd command ]:**
    ```bash
+   python -m venv venv
+   venv\Scripts\activate
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
 
